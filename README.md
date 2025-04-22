@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/apicardcom/apicardcom/blob/main/banner.png" alt="API Card Banner" width="100%" />
+</p>
+
 <h1 align="center">🚀 API Card Developer Hub</h1>
 
 <p align="center">
